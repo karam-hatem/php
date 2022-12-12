@@ -55,6 +55,27 @@ echo $text . "<hr>";
 
 //echo header('Location: https://www.w3resource.com/');
 
+
+
+
+
+
+
+
+
+echo (int) (10.5 + 10.5) ;
+echo gettype (10.5 + 10.5) ."<br>";
+
+
+
+echo (int) 10.5 + (int) 10.5 ;
+echo gettype ( (int) 10.5 + (int) 10.5) ."<br>";
+
+
+
+
+
+
 ?>    
 
 
