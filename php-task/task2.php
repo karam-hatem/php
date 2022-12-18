@@ -32,11 +32,6 @@ session_start();
     </table>"."<br>"."<hr>";
 
 
-
-
-
-
-
 $_SESSION['table'] = "<table border=1>
 
 <tr> <td><font color=blue > Salary of Mr. A is</td> <td>$a$</font></td> </tr> 
